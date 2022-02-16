@@ -1,0 +1,4 @@
+﻿  RGB565ConvertBMP.cpp
+C:\Users\nxf75461\source\repos\RGB565ConvertBMP\RGB565ConvertBMP\RGB565ConvertBMP.cpp(78,23): warning C4309: '=': truncation of constant value
+C:\Users\nxf75461\source\repos\RGB565ConvertBMP\RGB565ConvertBMP\RGB565ConvertBMP.cpp(82,22): warning C4309: '=': truncation of constant value
+  RGB565ConvertBMP.vcxproj -> C:\Users\nxf75461\source\repos\RGB565ConvertBMP\x64\Debug\RGB565ConvertBMP.exe
